@@ -34,7 +34,7 @@ Then, make sure the script is executable:
 chmod +x compile.sh
 ```
 
-### UASGE:
+### USAGE:
 
 Run "./compile.sh" without arguments:
 
