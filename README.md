@@ -24,7 +24,7 @@ sudo apt-get install git bc bison flex libssl-dev make libc6-dev libncurses5-dev
 ```
 git clone https://github.com/Circu1tI0N3rd/rtl8188eus-rpi
 cd rtl8188eus-rpi
-git submodules update --init
+git submodule update --init
 ```
 
 Take your time as RPi kernel source is quite large!
